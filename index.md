@@ -1,6 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to The Feniks Amsteram
 
-You can use the [editor on GitHub](https://github.com/feniksAmsterdam/feniksAmsterdam.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Dear resident of the Feniks,
+
+Welcome to the landing page of our building. Through the various links here the residents committee wants to update and communicate with the residents. 
+
+You will be recieving our newsletter about ongoing issues in the building via the google group, but also invitations for social gatherings and other happenings via the socials and group emails. 
+
+Kind regards, 
+The residents committee of the Feniks
+
+Here are the links:
+- [Google Groups](https://groups.google.com/g/bewonerscommissie-fenkis)
+- [Facebook Page](https://www.facebook.com/BCFeniks)
+- [Instagram](https://www.instagram.com/defeniksamsterdam/)
+- [Facebook Group](https://www.facebook.com/groups/663569140390904) 
+
+
+
+
+
+<!-- You can use the [editor on GitHub](https://github.com/feniksAmsterdam/feniksAmsterdam.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -15,8 +34,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+
 
 1. Numbered
 2. List
@@ -34,4 +52,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
