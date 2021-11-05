@@ -12,11 +12,11 @@ The residents' committee of the Feniks
 
 
 
-- [Google Groups](https://groups.google.com/g/bewonerscommissie-fenkis)
+- [Google Groups](https://groups.google.com/forum/#!forum/bewonerscommissie-feniks/join)
 - [Facebook Page](https://www.facebook.com/BCFeniks)
 - [Instagram](https://www.instagram.com/defeniksamsterdam/)
 - [Facebook Group](https://www.facebook.com/groups/663569140390904) 
-
+- [WhatsApp Group](https://chat.whatsapp.com/E5iBxXfbt4O4pRLw7iiSL5)
 
 
 
