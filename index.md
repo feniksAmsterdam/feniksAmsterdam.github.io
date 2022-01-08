@@ -1,10 +1,9 @@
 ## Welcome to The Feniks Amsteram
 
 Dear residents of the Feniks,
+Welcome to the landing page of our building. Through the various links here the resident's committee wants to update and communicate with the residents.
 
-Welcome to the landing page of our building. Through the various links here the residents committee wants to update and communicate with the residents. 
-
-You will be recieving our newsletter about ongoing issues in the building via the google group, but also invitations for social gatherings and other happenings via the socials and group emails. 
+You will be receiving our newsletter about ongoing issues in the building via the google group, but also invitations for social gatherings and other happenings via the socials and group emails.
 
 Kind regards,
 
