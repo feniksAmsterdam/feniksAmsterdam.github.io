@@ -15,7 +15,7 @@ The residents' committee of the Feniks
 - [Facebook Page](https://www.facebook.com/BCFeniks)
 - [Instagram](https://www.instagram.com/defeniksamsterdam/)
 - [Facebook Group](https://www.facebook.com/groups/663569140390904) 
-- [WhatsApp Group](https://chat.whatsapp.com/E5iBxXfbt4O4pRLw7iiSL5)
+- [WhatsApp Group](https://chat.whatsapp.com/Bz4ZIKmRuuh1JyxGfmKUiq)
 
 
 
